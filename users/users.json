@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "name": "Leane Dedmon99",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "extension": false
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "phone": "010-692-6593 x09125",
+        "website": "anastasoa.net",
+        "extension": "jpg"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "extension": "jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mary Gile",
+        "username": "Cleve",
+        "email": "elton1999@hotmail.com",
+        "phone": "661-675-7354",
+        "website": "cleve.info"
+    },
+    {
+        "id": 5,
+        "name": "Richard Hawkinson",
+        "username": "Rich",
+        "email": "richard@hotmail.com",
+        "phone": "630-361-3553",
+        "website": "richman.info"
+    },
+    {
+        "id": 6,
+        "name": "Tori Bledsoe",
+        "username": "Tori",
+        "email": "Tori@yahoo.com",
+        "phone": "248-727-3918",
+        "website": "torisworld.com"
+    },
+    {
+        "id": 7,
+        "name": "Isabel Little",
+        "username": "Isabel",
+        "email": "Isabel@hotmail.com",
+        "phone": "85-495-5601",
+        "website": "Isabel.com"
+    },
+    {
+        "id": 8,
+        "name": "John McGregor",
+        "username": "McGregor",
+        "email": "McGregorl@hotmail.com",
+        "phone": "540-487-0409",
+        "website": "McGregor.com"
+    },
+    {
+        "id": 9,
+        "name": "Maria Molina",
+        "username": "McGregor",
+        "email": "McGregorl@hotmail.com",
+        "phone": "724-543-9329",
+        "website": "McGregor.com"
+    },
+    {
+        "id": 10,
+        "name": "Charles Tilford",
+        "username": "Tilford",
+        "email": "Tilford@gmail.com",
+        "phone": "386-575-7778",
+        "website": "tilford.com"
+    },
+    {
+        "name": "John Doe",
+        "username": "John",
+        "email": "john37@gmail.com",
+        "phone": "5022401234",
+        "website": "john37.com",
+        "id": 1263406,
+        "extension": "jpg"
+    },
+    {
+        "name": "Jason Dobbins",
+        "username": "jasondpo",
+        "email": "jasonq37@gmail.com",
+        "phone": "8592408504",
+        "website": "john37.com",
+        "id": 1514475,
+        "extension": "jpg"
+    }
+]
