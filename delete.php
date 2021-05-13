@@ -14,15 +14,3 @@ if(!$user){
     include "partials/not_found.php";
     exit;   
 }
-
-if($_SERVER['REQUEST_METHOD']==='POST'){
-    $user=updateUser($_POST, $userId);
-
-    uploadImage($_FILES['picture'], $user);
-         
-    header("Location: index.php");
-}
-
-?>
-
-<?php include '_form.php' ?>

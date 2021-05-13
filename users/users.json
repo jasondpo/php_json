@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "name": "Leane Dedmon99",
+        "name": "Leane Dedmon23",
         "username": "Bret",
         "email": "Sincere@april.biz",
         "phone": "1-770-736-8031 x56442",
         "website": "hildegard.org",
-        "extension": false
+        "extension": "jpg"
     },
     {
         "id": 2,
-        "name": "Ervin Howell",
+        "name": "Ervin Howell2",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
         "phone": "010-692-6593 x09125",
         "website": "anastasoa.net",
-        "extension": "jpg"
+        "extension": false
     },
     {
         "id": 3,
-        "name": "Clementine Bauch",
+        "name": "Clementine Bauch23",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
         "phone": "1-463-123-4447",
@@ -99,5 +99,14 @@
         "website": "john37.com",
         "id": 1514475,
         "extension": "jpg"
+    },
+    {
+        "name": "Lauren",
+        "username": "Glymph",
+        "email": "lglymph@jeffersoncountyclerk.org",
+        "phone": "8592408506",
+        "website": "lauren.com",
+        "id": 1842251,
+        "extension": false
     }
 ]
